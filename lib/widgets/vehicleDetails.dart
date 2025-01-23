@@ -88,7 +88,7 @@ class _VehicleDetailsState extends State<VehicleDetails> {
                                                                 .circular(24),
                                                             topRight:
                                                                 Radius.circular(
-                                                                    25))),
+                                                                    24))),
                                                 height: 365.0,
                                                 width: 369,
                                                 child: Column(
