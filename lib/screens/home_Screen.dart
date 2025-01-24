@@ -48,7 +48,7 @@ class HomeScreen extends StatelessWidget {
                     padding: EdgeInsets.symmetric(horizontal: 9),
                     child: VehicleDetails(
                       color: Color(0xFFE31212),
-                      carmodelNumber: '911 GT2 RS',
+                      carmodelNumber: '911 GT2 RS2',
                       carModelName: '7403 TNJ',
                       carType: 'Sedan',
                       carYear: '2010',
