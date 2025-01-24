@@ -63,7 +63,7 @@ class HomeScreen extends StatelessWidget {
                       color: Colors.black,
                       carmodelNumber: '911 GT2 RS',
                       carModelName: '7403 TNJ',
-                      carType: 'Sedan',
+                      carType: 'Suv',
                       carYear: '2016',
                       purpose: 'Private',
                       carImg: 'assets/images/car1 1.png',
