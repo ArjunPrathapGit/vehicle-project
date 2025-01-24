@@ -85,10 +85,10 @@ class _VehicleDetailsState extends State<VehicleDetails> {
                                                     borderRadius:
                                                         BorderRadius.only(
                                                             topLeft: Radius
-                                                                .circular(24),
+                                                                .circular(25),
                                                             topRight:
                                                                 Radius.circular(
-                                                                    24))),
+                                                                    25))),
                                                 height: 365.0,
                                                 width: 369,
                                                 child: Column(
